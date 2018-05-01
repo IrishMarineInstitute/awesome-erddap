@@ -20,7 +20,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [timeliER](https://irishmarineinstitute.github.io/timeliER/#IMI_CONN_3D) - Smooth playing of ERDDAP WMS data using [LeafletTime.Dimension](https://github.com/socib/Leaflet.TimeDimension) 
 
 ## Vectors
-- [model-v](http://digitalocean.ie/model-v/) = Sea Surface animation of ERDDAP netCDF data using [wind.js](https://github.com/Esri/wind-js) with time interpolation added. Takes a minute to load, or [watch the video](http://digitalocean.ie/model-v/connemara/).
+- [model-v](http://digitalocean.ie/model-v/) - Sea Surface animation of ERDDAP netCDF data using [wind.js](https://github.com/Esri/wind-js) with time interpolation added. Takes a minute to load, or [watch the video](http://digitalocean.ie/model-v/connemara/).
 
 ## Misc
 - [Erddap-Voxel-Space](https://irishmarineinstitute.github.io/Erddap-Voxel-Space/VoxelSpace.html) - Terrain rendering using ERDDAP WMS as data, based upon this  [VoxelSpace implementation](https://github.com/s-macke/VoxelSpace) as extended by [John Hawthorn](https://github.com/jhawthorn/VoxelSpace) (see his [Vancouver LIDAR data demo](https://jhawthorn.github.io/VoxelSpace/VoxelSpace.html))
@@ -34,13 +34,13 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 -   [INCOIS](http://erddap.incois.gov.in/erddap/index.html) (Indian National Centre for Ocean Information Services)
 -   [IPSC JRC EC](https://bluehub.jrc.ec.europa.eu/erddap/index.html) (Maritime Affairs Unit, Institute for the Protection and Security of the Citizen, Joint Research Centre of the European Commission)
 -   IRD (Institut de Recherche pour le Développement, France)  
-    CNRS (Centre National de la Recherche Scientifique, France)  
-    UPMC (Université Pierre et Marie CURIE, Paris, France)  
-    UCAD (Université Cheikh Anta Diop de Dakar, Sénégal)  
-    UGB (Université Gaston Berger - Saint-Louis du Sénégal)  
-    UFHB (Université Félix HOUPHOUËT-BOIGNY, Abidjan, Côte d'Ivoire)  
-    IPSL (Institut Pierre Simon Laplace des sciences de l'environnement, Paris, France)  
-    LMI ECLAIRS (Laboratoire Mixte International Etude du Climat en Afrique de lOuest et de ses Interactions avec lEnvironnement Régional, et appui aux services climatiques)
+-   CNRS (Centre National de la Recherche Scientifique, France)  
+-   UPMC (Université Pierre et Marie CURIE, Paris, France)  
+-   UCAD (Université Cheikh Anta Diop de Dakar, Sénégal)  
+-   UGB (Université Gaston Berger - Saint-Louis du Sénégal)  
+-   UFHB (Université Félix HOUPHOUËT-BOIGNY, Abidjan, Côte d'Ivoire)  
+-   IPSL (Institut Pierre Simon Laplace des sciences de l'environnement, Paris, France)  
+-   LMI ECLAIRS (Laboratoire Mixte International Etude du Climat en Afrique de lOuest et de ses Interactions avec lEnvironnement Régional, et appui aux services climatiques)
 -   [The Marine Institute](https://erddap.marine.ie/erddap/index.html) (Ireland)
 -   Marine Instruments S.A. (Spain)
 -   [NOAA CW CGOM](http://cwcgom.aoml.noaa.gov/erddap/index.html) (CoastWatch Caribbean/Gulf of Mexico Node)
