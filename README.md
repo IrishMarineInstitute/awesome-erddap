@@ -5,8 +5,8 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 ## Table of Contents
 - [ERDDAP](#erddap)
-- [ERDDAP Clients - Python](#erddap-clients-python)
-- [ERDDAP Clients - R](#erddap-clients-r)
+- [ERDDAP Clients - Python](#erddap-clients---python)
+- [ERDDAP Clients - R](#erddap-clients---r)
 - [Web Mapping Services](#web-mapping-services)
 - [Vectors](#vectors)
 - [Misc](#misc)
