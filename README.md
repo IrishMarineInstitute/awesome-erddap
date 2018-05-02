@@ -7,6 +7,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [ERDDAP](#erddap)
 - [ERDDAP Clients - Python](#erddap-clients---python)
 - [ERDDAP Clients - R](#erddap-clients---r)
+- [ERDDAP Clients - ArcGIS](#erddap-clients---arcgis)
 - [Web Mapping Services](#web-mapping-services)
 - [Vectors](#vectors)
 - [Misc](#misc)
@@ -25,6 +26,9 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [rerddap](https://github.com/ropensci/rerddap) - R package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
 - [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
 
+## ERDDAP Clients - ArcGIS
+- [Environmental Data Connector](http://asascience.com/software/downloads/) - ArcGIS add-on for accessing ERDDAP server directly in ArcGIS.
+
 ## Web Mapping Services
 - [timeliER](https://irishmarineinstitute.github.io/timeliER/#IMI_CONN_3D) - Smooth playing of ERDDAP WMS data using [LeafletTime.Dimension](https://github.com/socib/Leaflet.TimeDimension) 
 
@@ -34,9 +38,6 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 ## Misc
 - [Erddap-Voxel-Space](https://irishmarineinstitute.github.io/Erddap-Voxel-Space/VoxelSpace.html) - Terrain rendering using ERDDAP WMS as data, based upon this  [VoxelSpace implementation](https://github.com/s-macke/VoxelSpace) as extended by [John Hawthorn](https://github.com/jhawthorn/VoxelSpace) (see his [Vancouver LIDAR data demo](https://jhawthorn.github.io/VoxelSpace/VoxelSpace.html))
 - [Graphql API to ERDDAP](https://api.digitalocean.ie/) - Contact Irish Marine Institute if interested in this for your site.
-
-## ArcGIS Add-on
-- [Environmental Data Connector](http://asascience.com/software/downloads/) - ArcGIS add-on for accessing ERDDAP server directly in ArcGIS.
 
 ## ERDDAP Deployments
 -   [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) (Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii) (UH)
