@@ -5,9 +5,8 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 ## Table of Contents
 - [ERDDAP](#erddap)
-- [ERDDAP Clients - Python](#erddap-clients---python)
-- [ERDDAP Clients - R](#erddap-clients---r)
-- [ERDDAP Clients - ArcGIS](#erddap-clients---arcgis)
+- [ERDDAP Clients](#erddap-clients)
+- [ArcGIS](#arcgis)
 - [Web Mapping Services](#web-mapping-services)
 - [Vectors](#vectors)
 - [Misc](#misc)
@@ -19,15 +18,13 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 ## ERDDAP
 - The [ERDDAP data server](https://github.com/BobSimons/erddap) itself - various instances power all the awesome projects on this list
 
-## ERDDAP Clients - Python
-- [erddapy](pyoceans.github.io/erddapy) - Python package for simplified access to ERDDAP servers.
+## ERDDAP Clients
+- [erddapy](pyoceans.github.io/erddapy) - Python language package for simplified access to ERDDAP servers.
+- [rerddap](https://github.com/ropensci/rerddap) - R language package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
+- [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R language package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
 
-## ERDDAP Clients - R
-- [rerddap](https://github.com/ropensci/rerddap) - R package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
-- [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
-
-## ERDDAP Clients - ArcGIS
-- [Environmental Data Connector](http://asascience.com/software/downloads/) - ArcGIS add-on for accessing ERDDAP server directly in ArcGIS.
+## ArcGIS
+- [Environmental Data Connector](http://asascience.com/software/downloads/) - The Environmental Data Connector (EDC) extension uses a Java-based browser to allow users to connect to THREDDS/SOS/ERDDAP data servers. The connector leverages existing components from the Unidata libraries so that users can filter large amounts of data in space and time. The data and metadata can automatically be loaded into ArcMap, R, Matlab, or Excel..
 
 ## Web Mapping Services
 - [timeliER](https://irishmarineinstitute.github.io/timeliER/#IMI_CONN_3D) - Smooth playing of ERDDAP WMS data using [LeafletTime.Dimension](https://github.com/socib/Leaflet.TimeDimension) 
