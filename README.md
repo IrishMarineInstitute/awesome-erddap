@@ -9,6 +9,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [Vectors](#vectors)
 - [Misc](#misc)
 - [ERDDAP Deployments](#erddap-deployments)
+- [ERDDAP Clients](#erddap-clients)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -72,6 +73,10 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 -   [University of British Columbia, Earth, Ocean & Atmospheric Sciences Department](https://salishsea.eos.ubc.ca/erddap/index.html)
 -   [University of California at Davis, Bodega Marine Laboratory](http://bmlsc.ucdavis.edu:8080/erddap/index.html)
 -   University of Washington, Applied Physics Laboratory
+
+## ERDDAP Clients
+
+[erddapy](pyoceans.github.io/erddapy) Python interface for ERDDAP
 
 ## Contributing
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
