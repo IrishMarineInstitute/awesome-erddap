@@ -76,7 +76,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 ## ERDDAP Clients
 
-[erddapy](pyoceans.github.io/erddapy) Python interface for ERDDAP
+- [erddapy](pyoceans.github.io/erddapy) Python interface for ERDDAP
 
 ## Contributing
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
