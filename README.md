@@ -27,6 +27,16 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [Erddap-Voxel-Space](https://irishmarineinstitute.github.io/Erddap-Voxel-Space/VoxelSpace.html) - Terrain rendering using ERDDAP WMS as data, based upon this  [VoxelSpace implementation](https://github.com/s-macke/VoxelSpace) as extended by [John Hawthorn](https://github.com/jhawthorn/VoxelSpace) (see his [Vancouver LIDAR data demo](https://jhawthorn.github.io/VoxelSpace/VoxelSpace.html))
 - [Graphql API to ERDDAP](https://api.digitalocean.ie/) - Contact Irish Marine Institute if interested in this for your site.
 
+## R Packages
+- [rerddap](https://github.com/ropensci/rerddap) - R package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
+- [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
+
+## Python Packages
+- [erddapy](https://github.com/pyoceans/erddapy) - Python package for simplified access to ERDDAP servers.
+
+## ArcGIS Add-on
+- [Environmental Data Connector](http://asascience.com/software/downloads/) - ArcGIS add-on for accessing ERDDAP server directly in ArcGIS.
+
 ## ERDDAP Deployments
 -   [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) (Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii) (UH)
 -   [BCO-DMO at WHOI](https://erddap.bco-dmo.org/erddap/index.html) (Biological and Chemical Oceanography Data Management Office at Woods Hole Oceanographic Institution)
