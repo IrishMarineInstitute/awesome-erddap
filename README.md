@@ -5,17 +5,25 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 ## Table of Contents
 - [ERDDAP](#erddap)
+- [ERDDAP Clients - Python](#erddap-clients-python)
+- [ERDDAP Clients - R](#erddap-clients-r)
 - [Web Mapping Services](#web-mapping-services)
 - [Vectors](#vectors)
 - [Misc](#misc)
 - [ERDDAP Deployments](#erddap-deployments)
-- [ERDDAP Clients](#erddap-clients)
 - [Contributing](#contributing)
 - [License](#license)
 
 
 ## ERDDAP
 - The [ERDDAP data server](https://github.com/BobSimons/erddap) itself - various instances power all the awesome projects on this list
+
+## ERDDAP Clients - Python
+- [erddapy](pyoceans.github.io/erddapy) - Python package for simplified access to ERDDAP servers.
+
+## ERDDAP Clients - R
+- [rerddap](https://github.com/ropensci/rerddap) - R package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
+- [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
 
 ## Web Mapping Services
 - [timeliER](https://irishmarineinstitute.github.io/timeliER/#IMI_CONN_3D) - Smooth playing of ERDDAP WMS data using [LeafletTime.Dimension](https://github.com/socib/Leaflet.TimeDimension) 
@@ -26,13 +34,6 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 ## Misc
 - [Erddap-Voxel-Space](https://irishmarineinstitute.github.io/Erddap-Voxel-Space/VoxelSpace.html) - Terrain rendering using ERDDAP WMS as data, based upon this  [VoxelSpace implementation](https://github.com/s-macke/VoxelSpace) as extended by [John Hawthorn](https://github.com/jhawthorn/VoxelSpace) (see his [Vancouver LIDAR data demo](https://jhawthorn.github.io/VoxelSpace/VoxelSpace.html))
 - [Graphql API to ERDDAP](https://api.digitalocean.ie/) - Contact Irish Marine Institute if interested in this for your site.
-
-## R Packages
-- [rerddap](https://github.com/ropensci/rerddap) - R package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
-- [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
-
-## Python Packages
-- [erddapy](https://github.com/pyoceans/erddapy) - Python package for simplified access to ERDDAP servers.
 
 ## ArcGIS Add-on
 - [Environmental Data Connector](http://asascience.com/software/downloads/) - ArcGIS add-on for accessing ERDDAP server directly in ArcGIS.
@@ -83,10 +84,6 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 -   [University of British Columbia, Earth, Ocean & Atmospheric Sciences Department](https://salishsea.eos.ubc.ca/erddap/index.html)
 -   [University of California at Davis, Bodega Marine Laboratory](http://bmlsc.ucdavis.edu:8080/erddap/index.html)
 -   University of Washington, Applied Physics Laboratory
-
-## ERDDAP Clients
-
-- [erddapy](pyoceans.github.io/erddapy) Python interface for ERDDAP
 
 ## Contributing
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
