@@ -19,7 +19,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - The [ERDDAP data server](https://github.com/BobSimons/erddap) itself - various instances power all the awesome projects on this list
 
 ## ERDDAP Clients
-- [erddapy](pyoceans.github.io/erddapy) - Python language package for simplified access to ERDDAP servers.
+- [erddapy](https://pyoceans.github.io/erddapy) - Python language package for simplified access to ERDDAP servers.
 - [rerddap](https://github.com/ropensci/rerddap) - R language package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
 - [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R language package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
 
