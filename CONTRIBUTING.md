@@ -20,6 +20,6 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Search the JSON object to make sure you're not duplicating existing entries
 - The JSON file is an array of objects. Add a new object for your server
-- Ensure you've added a name and a url attribute to your object. No more and no less
+- Ensure you've added a name, a url and a public attribute to your object. No more and no less
 - Check the url is correct with respect to http:// or https://
 - Please validate your JSON object against the [schema](/json-schema/ErddapInstancesSchema.json) using a tool such as [this one](https://www.jsonschemavalidator.net/).
