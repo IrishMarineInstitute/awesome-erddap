@@ -15,9 +15,13 @@
 			"url":{
 				"description": "The web address of the Erddap instance",
 				"type": "string"
+			},
+			"public":{
+				"description": "Is the URL supplied responding to public web calls",
+				"type": "boolean"
 			}
 		},
-		"required": ["name", "url"],
+		"required": ["name", "url", "public"],
 		"additionalProperties": false,
 		"maxProperties": 2,
 		"minProperties": 2
