@@ -23,8 +23,8 @@
 		},
 		"required": ["name", "url", "public"],
 		"additionalProperties": false,
-		"maxProperties": 2,
-		"minProperties": 2
+		"maxProperties": 3,
+		"minProperties": 3
 	}
    }
 }
