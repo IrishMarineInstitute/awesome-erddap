@@ -17,6 +17,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 ## ERDDAP
 - The [ERDDAP data server](https://github.com/BobSimons/erddap) itself - various instances power all the awesome projects on this list
+- [List of ERDDAP instances](erddaps.json) - A JSON file of ERDDAP instances for use in applications which require access to multiple ERDDAP servers. This file is hosted within this repository. To add your ERDDAP server to the JSON file, please see the [guidelines for contributing](CONTRIBUTING.md).
 
 ## ERDDAP Clients
 - [erddapy](https://pyoceans.github.io/erddapy) - Python language package for simplified access to ERDDAP servers.
@@ -24,7 +25,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R language package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
 
 ## ArcGIS
-- [Environmental Data Connector](http://asascience.com/software/downloads/) - The Environmental Data Connector (EDC) extension uses a Java-based browser to allow users to connect to THREDDS/SOS/ERDDAP data servers. The connector leverages existing components from the Unidata libraries so that users can filter large amounts of data in space and time. The data and metadata can automatically be loaded into ArcMap, R, Matlab, or Excel..
+- [Environmental Data Connector](http://asascience.com/software/downloads/) - The Environmental Data Connector (EDC) extension uses a Java-based browser to allow users to connect to THREDDS/SOS/ERDDAP data servers. The connector leverages existing components from the Unidata libraries so that users can filter large amounts of data in space and time. The data and metadata can automatically be loaded into ArcMap, R, Matlab, or Excel.
 
 ## Web Mapping Services
 - [timeliER](https://irishmarineinstitute.github.io/timeliER/#IMI_CONN_3D) - Smooth playing of ERDDAP WMS data using [LeafletTime.Dimension](https://github.com/socib/Leaflet.TimeDimension) 
