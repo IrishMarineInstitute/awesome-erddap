@@ -1,0 +1,142 @@
+[
+	{
+		"name": "CoastWatch West Coast Node",
+		"url": "https://coastwatch.pfeg.noaa.gov/erddap/"
+	},
+    {
+		"name": "ERDDAP at the Asia-Pacific Data-Research Center",
+		"url": "https://apdrc.soest.hawaii.edu/erddap/"
+	},
+    {
+		"name": "NOAA's National Centers for Environmental Information (NCEI)",
+		"url": "https://www.ncei.noaa.gov/erddap/"
+	},
+    {
+		"name": "Biological and Chemical Oceanography Data Management Office (BCO-DMO) ERDDAP",
+		"url": "https://erddap.bco-dmo.org/erddap/"
+	},
+    {
+		"name": "European Marine Observation and Data Network (EMODnet) Physics ERDDAP",
+		"url": "https://erddap.emodnet-physics.eu/erddap/"
+	},
+    {
+		"name": "Marine Institute - Ireland",
+		"url": "https://erddap.marine.ie/erddap/"
+	},
+    {
+		"name": "CoastWatch Caribbean/Gulf of Mexico Node",
+		"url": "https://cwcgom.aoml.noaa.gov/erddap/"
+	},
+    {
+		"name": "NOAA IOOS Sensors ERDDAP",
+		"url": "http://erddap.sensors.ioos.us/erddap/"
+	},
+    {
+		"name": "NOAA IOOS CeNCOOS (Central and Northern California Ocean Observing System)",
+		"url": "http://erddap.axiomdatascience.com/erddap/"
+	},
+    {
+		"name": "NOAA IOOS NERACOOS (Northeastern Regional Association of Coastal and Ocean Observing Systems)",
+		"url": "http://www.neracoos.org/erddap/"
+	},
+    {
+		"name": "NOAA IOOS NGDAC (National Glider Data Assembly Center)",
+		"url": "https://data.ioos.us/gliders/erddap/"
+	},
+    {
+		"name": "NOAA IOOS PacIOOS (Pacific Islands Ocean Observing System) at the University of Hawaii (UH)",
+		"url": "http://oos.soest.hawaii.edu/erddap/"
+	},
+    {
+		"name": "Southern California Coastal Ocean Observing System (SCCOOS)",
+		"url": "http://sccoos.org/erddap/"
+	},
+    {
+		"name": "NOAA IOOS SECOORA (Southeast Coastal Ocean Observing Regional Association)",
+		"url": "http://erddap.secoora.org/erddap/"
+	},
+    {
+		"name": "NOAA NCEI (National Centers for Environmental Information) / NCDDC",
+		"url": "https://ecowatch.ncddc.noaa.gov/erddap/"
+	},
+    {
+		"name": "NOAA OSMC (Observing System Monitoring Center)",
+		"url": "http://osmc.noaa.gov/erddap/"
+	},
+    {
+		"name": "ONC (Ocean Networks Canada)",
+		"url": "http://dap.onc.uvic.ca/erddap/"
+	},
+    {
+		"name": "",
+		"url": "https://oceanwatch.pifsc.noaa.gov/erddap/"
+	},
+    {
+		"name": "Ocean Observatories Initiative (OOI)",
+		"url": "https://erddap-uncabled.oceanobservatories.org/uncabled/erddap/"
+	},
+    {
+		"name": "Ocean Tracking Network",
+		"url": "https://members.oceantrack.org/erddap/"
+	},
+    {
+		"name": "",
+		"url": "http://www.myroms.org:8080/erddap/"
+	},
+    {
+		"name": "Department of Marine and Coastal Sciences, School of Environmental and Biological Sciences, Rutgers, The State University of New Jersey",
+		"url": "http://tds.marine.rutgers.edu/erddap/"
+	},
+    {
+		"name": "",
+		"url": "https://comet.nefsc.noaa.gov/erddap/"
+	},
+    {
+		"name": "NOAA's Center for Operational Oceanographic Products and Services",
+		"url": "https://opendap.co-ops.nos.noaa.gov/erddap/"
+	},
+    {
+		"name": "",
+		"url": "http://gcoos5.geos.tamu.edu:6060/erddap/"
+	},
+    {
+		"name": "",
+		"url": "http://gcoos4.tamu.edu:8080/erddap/"
+	},
+    {
+		"name": "NOAA CoastWatch Great Lakes Node",
+		"url": "https://coastwatch.glerl.noaa.gov/erddap/"
+	},
+    {
+		"name": "",
+		"url": "http://sfbaynutrients.sfei.org/erddap/"
+	},
+    {
+		"name": "Spray Underwater Glider data from Instrument Development Group, Scripps Institute of Oceanography, University of California, San Diego",
+		"url": "https://spraydata.ucsd.edu/erddap/"
+	},
+    {
+		"name": "UBC Earth, Ocean & Atmospheric Sciences SalishSeaCast Project",
+		"url": "https://salishsea.eos.ubc.ca/erddap/"
+	},
+    {
+		"name": "UC Davis BML (University of California at Davis, Bodega Marine Laboratory)",
+		"url": "http://bmlsc.ucdavis.edu:8080/erddap/"
+	},
+    {
+		"name": "NOAA UAF (Unified Access Framework)",
+		"url": "https://upwell.pfeg.noaa.gov/erddap/"
+	},
+	{
+		"name": "Marine Domain Awareness (MDA) - Italy",
+		"url": "https://bluehub.jrc.ec.europa.eu/erddap/"
+	},
+	{
+		"name": "R.Tech Engineering",
+		"url": "https://meteo.rtech.fr/erddap/"
+	},
+	{
+		"name": "French Research Institute for the Exploitation of the Sea",
+		"url": "http://www.ifremer.fr/erddap/"
+	}
+]

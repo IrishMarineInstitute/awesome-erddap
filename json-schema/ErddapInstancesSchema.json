@@ -1,0 +1,26 @@
+{
+   "$schema": "http://json-schema.org/draft-04/schema#",
+   "title": "erddap-instances",
+   "type": "array",
+   "items": {"$ref": "#/definitions/instance"},
+   "definitions":{
+	"instance":{
+		"description": "The detail needed for an Erddap instance",
+		"type": "object",
+		"properties":{
+			"name": {
+				"description": "A text label given to the Erddap instance",
+				"type": "string"
+			},
+			"url":{
+				"description": "The web address of the Erddap instance",
+				"type": "string"
+			}
+		},
+		"required": ["name", "url"],
+		"additionalProperties": false,
+		"maxProperties": 2,
+		"minProperties": 2
+	}
+   }
+}
