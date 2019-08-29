@@ -1,4 +1,4 @@
-var awesomeErrdaps = [
+var awesomeErddaps = [
 	{
 		"name": "CoastWatch West Coast Node",
 		"url": "https://coastwatch.pfeg.noaa.gov/erddap/",
