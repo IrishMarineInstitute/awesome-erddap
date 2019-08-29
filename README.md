@@ -19,7 +19,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - The [ERDDAP data server](https://github.com/BobSimons/erddap) itself - various instances power all the awesome projects on this list
 
 ## ERDDAP Clients
-- [erddapy](pyoceans.github.io/erddapy) - Python language package for simplified access to ERDDAP servers.
+- [erddapy](https://pyoceans.github.io/erddapy) - Python language package for simplified access to ERDDAP servers.
 - [rerddap](https://github.com/ropensci/rerddap) - R language package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
 - [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R language package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
 
@@ -35,6 +35,8 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 ## Misc
 - [Erddap-Voxel-Space](https://irishmarineinstitute.github.io/Erddap-Voxel-Space/VoxelSpace.html) - Terrain rendering using ERDDAP WMS as data, based upon this  [VoxelSpace implementation](https://github.com/s-macke/VoxelSpace) as extended by [John Hawthorn](https://github.com/jhawthorn/VoxelSpace) (see his [Vancouver LIDAR data demo](https://jhawthorn.github.io/VoxelSpace/VoxelSpace.html))
 - [Graphql API to ERDDAP](https://api.digitalocean.ie/) - Contact Irish Marine Institute if interested in this for your site.
+- [Search Multiple Erddaps](https://coastwatch.pfeg.noaa.gov/erddap/download/SearchMultipleERDDAPs.html) Bob Simon's experimental web page for searching ERDDAPs.
+- [Search Erddaps](https://github.com/IrishMarineInstitute/search-erddaps) A tool for searching across instances of NOAA's Erddap data server software.
 
 ## ERDDAP Deployments
 -   [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) (Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii) (UH)
