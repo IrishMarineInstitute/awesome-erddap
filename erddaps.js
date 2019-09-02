@@ -173,5 +173,20 @@ var awesomeErddaps = [
 		"name": "French Research Institute for the Exploitation of the Sea",
 		"url": "http://www.ifremer.fr/erddap/",
 		"public": true
+	},
+	{
+		"name": "NOAA PMEL (Pacific Marine Environmental Laboratory)",
+		"url": "https://ferret.pmel.noaa.gov/pmel/erddap",
+		"public": true
+	},
+	{
+		"name": "ALAMO (Air Launched Autonomous Micro-Observer)",
+		"url": "https://ferret.pmel.noaa.gov/alamo/erddap/",
+		"public": true
+	},
+	{
+		"name": "SOCAT (Surface Ocean CO2 ATlas)",
+		"url": "https://ferret.pmel.noaa.gov/socat/erddap/",
+		"public": true
 	}
 ];
