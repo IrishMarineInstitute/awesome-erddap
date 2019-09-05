@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"test": "node test/testrunner.js",
+		"test": "node test/JsonMatchesJsonSchema.js && node test/JsonEqualsJs.js && awesome-lint",
 		"build": "node tools/build.js"
 	},
 	"devDependencies": {

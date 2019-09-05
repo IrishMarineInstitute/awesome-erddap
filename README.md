@@ -16,7 +16,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 ## ERDDAP
 
 - The [ERDDAP data server](https://github.com/BobSimons/erddap) itself - various instances power all the awesome projects on this list
-- [List of ERDDAP instances](erddaps.json) - A JSON file of ERDDAP instances for use in applications which require access to multiple ERDDAP servers. This file is hosted within this repository. To add your ERDDAP server to the JSON file, please see the [guidelines for contributing](https://github.com/IrishMarineInstitute/awesome-erddap/blob/master/CONTRIBUTING.md).
+- [List of ERDDAP instances](https://github.com/IrishMarineInstitute/awesome-erddap/blob/master/erddaps.json) - A JSON file of ERDDAP instances for use in applications which require access to multiple ERDDAP servers. This file is hosted within this repository. To add your ERDDAP server to the JSON file, please see the [guidelines for contributing](CONTRIBUTING.md).
 
 ## ERDDAP Clients
 
@@ -45,12 +45,12 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 ## ERDDAP Deployments
 
-- [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) - Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii (UH)
+- [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) - Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii (UH).
 - [BCO-DMO at WHOI](https://erddap.bco-dmo.org/erddap/index.html) (Biological and Chemical Oceanography Data Management Office at Woods Hole Oceanographic Institution)
 - [CSIRO and IMOS](http://rs-data1-mel.csiro.au/erddap/index.html) (Australia's Commonwealth Scientific and Industrial Research Organisation and the Integrated Marine Observing System)
 - [EMODnet Physics](http://erddap.emodnet-physics.eu/erddap/index.html) (The European Marine Observation and Data Network - Physics)
 - [INCOIS](http://erddap.incois.gov.in/erddap/index.html) (Indian National Centre for Ocean Information Services)
-- [IPSC JRC EC](https://bluehub.jrc.ec.europa.eu/erddap/index.html) (Maritime Affairs Unit, Institute for the Protection and Security of the Citizen, Joint Research Centre of the European Commission)
+- IPSC JRC EC - Maritime Affairs Unit, Institute for the Protection and Security of the Citizen, Joint Research Centre of the European Commission
 - IRD (Institut de Recherche pour le Développement, France)  
 - CNRS (Centre National de la Recherche Scientifique, France)  
 - UPMC (Université Pierre et Marie CURIE, Paris, France)  
@@ -59,36 +59,36 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - UFHB (Université Félix HOUPHOUËT-BOIGNY, Abidjan, Côte d'Ivoire)  
 - IPSL (Institut Pierre Simon Laplace des sciences de l'environnement, Paris, France)  
 - LMI ECLAIRS (Laboratoire Mixte International Etude du Climat en Afrique de lOuest et de ses Interactions avec lEnvironnement Régional, et appui aux services climatiques)
-- [The Marine Institute](https://erddap.marine.ie/erddap/index.html) - Ireland
+- [The Marine Institute](https://erddap.marine.ie/erddap/index.html) - Ireland.
 - Marine Instruments S.A. (Spain)
 - [NOAA CW CGOM](http://cwcgom.aoml.noaa.gov/erddap/index.html) (CoastWatch Caribbean/Gulf of Mexico Node)
-- [NOAA CW WC](https://coastwatch.pfeg.noaa.gov/erddap/index.html) (CoastWatch West Coast Node) which is co-located with and works with  
+- [NOAA CW WC](https://coastwatch.pfeg.noaa.gov/erddap/index.html) - CoastWatch West Coast Node which is co-located with and works with NOAA ERD.  
 - [NOAA ERD](https://coastwatch.pfeg.noaa.gov/erddap/index.html) (Environmental Research Division of SWFSC of NMFS)
 - [NOAA IOOS Sensors](http://erddap.sensors.ioos.us/erddap/) (Integrated Ocean Observing System)
 - [NOAA IOOS CeNCOOS](http://erddap.axiomdatascience.com/erddap/index.html) (Central and Northern California Ocean Observing System, run by Axiom Data Science)
 - [NOAA IOOS NERACOOS](http://www.neracoos.org/erddap/index.html) (Northeastern Regional Association of Coastal and Ocean Observing Systems)
-- [NOAA IOOS NGDAC](https://data.ioos.us/gliders/erddap/index.html) (National Glider Data Assembly Center)
-- [NOAA IOOS PacIOOS](http://oos.soest.hawaii.edu/erddap/index.html) (Pacific Islands Ocean Observing System) at the University of Hawaii (UH)
+- [NOAA IOOS NGDAC](https://data.ioos.us/gliders/erddap/index.html) - National Glider Data Assembly Center.
+- [NOAA IOOS PacIOOS](http://oos.soest.hawaii.edu/erddap/index.html) - Pacific Islands Ocean Observing System) at the University of Hawaii (UH).
 - [NOAA IOOS SCCOOS](http://sccoos.org/erddap/index.html) (Southern California Coastal Ocean Observing System)
 - [NOAA IOOS SECOORA](http://erddap.secoora.org/erddap/index.html) (Southeast Coastal Ocean Observing Regional Association)
-- [NOAA NCEI](https://ecowatch.ncddc.noaa.gov/erddap/index.html) (National Centers for Environmental Information) / NCDDC
+- [NOAA NCEI](https://ecowatch.ncddc.noaa.gov/erddap/index.html) - National Centers for Environmental Information) / NCDDC.
 - NOAA NGDC STP (National Geophysical Data Center, Solar - Terrestrial Physics)
 - [NOAA OSMC](http://osmc.noaa.gov/erddap/index.html) (Observing System Monitoring Center)
 - [NOAA UAF](https://upwell.pfeg.noaa.gov/erddap/index.html) (Unified Access Framework)
 - [Ocean Networks Canada](http://dap.onc.uvic.ca/erddap/index.html)
 - [Ocean Observatories Initiative (OOI) / Uncabled Data](https://erddap-uncabled.oceanobservatories.org/uncabled/erddap/index.html)
 - [Ocean Tracking Network](https://members.oceantrack.org/erddap/index.html)
-- [Princeton, Hydrometeorology Research Group](http://hydromet-thredds.princeton.edu:8000/erddap/index.html)
-- [R.Tech Engineering](https://meteo.rtech.fr/erddap/index.html), France
-- [Rutgers University, Department of Marine and Coastal Sciences](https://www.myroms.org:8080/erddap/) and [a second ERDDAP](http://tds.marine.rutgers.edu/erddap/info/index.html?page=1&itemsPerPage=1000)
-- [San Francisco Estuary Institute](http://sfbaynutrients.sfei.org/erddap/index.html)
+- Princeton, Hydrometeorology Research Group
+- R.Tech Engineering
+- [Rutgers University, Department of Marine and Coastal Sciences](http://tds.marine.rutgers.edu/erddap/index.html)
+- San Francisco Estuary Institute
 - [Scripps Institution of Oceanography, Spray Underwater Gliders](https://spraydata.ucsd.edu/erddap/index.html)
 - South African Environmental Observation Network
 - Spyglass Technologies
 - Stanford University, Hopkins Marine Station
 - USGS Coastal and Marine Geology Program
 - [University of British Columbia, Earth, Ocean & Atmospheric Sciences Department](https://salishsea.eos.ubc.ca/erddap/index.html)
-- [University of California at Davis, Bodega Marine Laboratory](http://bmlsc.ucdavis.edu:8080/erddap/index.html)
+- University of California at Davis, Bodega Marine Laboratory
 - University of Washington, Applied Physics Laboratory
 
 ## Contributing
