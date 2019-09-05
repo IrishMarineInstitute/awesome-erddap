@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"test": "node test/testrunner.js",
+		"build": "node tools/build.js"
+	},
+	"devDependencies": {
+		"awesome-lint": "^0.11.0",
+		"jsonschema": "^1.2.4",
+		"underscore": "^1.9.1"
+	}
+}

@@ -23,3 +23,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Ensure you've added a name, a url and a public attribute to your object. No more and no less
 - Check the url is correct with respect to http:// or https://
 - Please validate your JSON object against the [schema](/json-schema/ErddapInstancesSchema.json) using a tool such as [this one](https://www.jsonschemavalidator.net/).
+- If you have access to Node.JS, run `npm test` to perform the unit tests tests which are run are:
+-- Does the `README.md` file pass `awesome-lint`
+-- Does `erddaps.json` meet the JSON schema
+-- Equivalence in the data between the `erddaps.json` and `erddaps.js` files
