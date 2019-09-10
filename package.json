@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"test": "node test/JsonMatchesJsonSchema.js && node test/JsonEqualsJs.js && awesome-lint",
+		"build": "node tools/build.js"
+	},
+	"devDependencies": {
+		"awesome-lint": "^0.11.0",
+		"jsonschema": "^1.2.4",
+		"underscore": "^1.9.1"
+	}
+}
