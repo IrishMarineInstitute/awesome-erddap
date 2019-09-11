@@ -1,4 +1,5 @@
-# Awesome ERDDAP [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![Travis (.org)](https://img.shields.io/travis/IrishMarineInstitute/awesome-erddap)
+# Awesome ERDDAP [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of awesome ERDDAP projects and deployments
 
 Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https://github.com/sindresorhus/awesome) list thing.
