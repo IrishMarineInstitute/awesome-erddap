@@ -1,0 +1,8 @@
+language: node.js
+node_js:
+  - node
+install:
+  - npm install
+script:
+  - npm build
+  - npm test
