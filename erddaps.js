@@ -188,7 +188,7 @@ var awesomeErddaps = [
 		"name": "SOCAT (Surface Ocean CO2 ATlas)",
 		"url": "https://ferret.pmel.noaa.gov/socat/erddap/",
 		"public": true
-	}
+	},
 	{
 		"name": "HAKAI Institute",
 		"url": "https://catalogue.hakai.org/erddap/",
