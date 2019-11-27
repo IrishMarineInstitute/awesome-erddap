@@ -56,7 +56,7 @@ var awesomeErddaps = [
 	},
     {
 		"name": "NOAA IOOS PacIOOS (Pacific Islands Ocean Observing System) at the University of Hawaii (UH)",
-		"url": "http://oos.soest.hawaii.edu/erddap/",
+		"url": "https://pae-paha.pacioos.hawaii.edu/erddap/",
 		"public": true
 	},
     {
@@ -237,6 +237,11 @@ var awesomeErddaps = [
 	{
 		"name": "NOAH ATN IOOS (Animal Telemetry Network)",
 		"url": "https://atn.ioos.us/erddap/",
+		"public": true
+	},
+	{
+		"name": "DIVER (NOAA Office of Response and Restoration)",
+		"url": "https://pub-data.diver.orr.noaa.gov/erddap/",
 		"public": true
 	}
 ];
