@@ -24,7 +24,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [erddapy](https://ioos.github.io/erddapy/) - Python language package for simplified access to ERDDAP servers.
 - [rerddap](https://github.com/ropensci/rerddap) - R language package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
 - [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R language package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
-- [erddap-highstock-viewer](https://github.com/gulfofmaine/erddap-highstock-viewer) -  Simple pure javascript example to demonstrate display of long time series in HighCharts from a CORS enabled ERDDAP RESTful API.
+- [erddap-highstock-viewer](https://github.com/gulfofmaine/erddap-highstock-viewer) -  Simple pure JavaScript example to demonstrate display of long time series in HighCharts from a CORS enabled ERDDAP RESTful API.
 
 ## ArcGIS
 
@@ -97,7 +97,6 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - South African Environmental Observation Network
 - Spyglass Technologies
 - Stanford University, Hopkins Marine Station
-- [USGS CMGP](https://geoport.usgs.esipfed.org/erddap/index.html) (USGS Coastal and Marine Geology Program)
 - [University of British Columbia, Earth, Ocean & Atmospheric Sciences Department](https://salishsea.eos.ubc.ca/erddap/index.html)
 - University of California at Davis, Bodega Marine Laboratory
 - University of Washington, Applied Physics Laboratory
