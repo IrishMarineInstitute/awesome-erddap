@@ -44,6 +44,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [Graphql API to ERDDAP](https://api.digitalocean.ie/) - Contact Irish Marine Institute if interested in this for your site.
 - [Search Multiple Erddaps](https://coastwatch.pfeg.noaa.gov/erddap/download/SearchMultipleERDDAPs.html) - Bob Simon's experimental web page for searching ERDDAPs.
 - [Search Erddaps](https://github.com/IrishMarineInstitute/search-erddaps) - A tool for searching across instances of NOAA's Erddap data server software.
+- [ERDDAP Gold Standard](https://github.com/ioos/erddap-gold-standard) - Example datasets and configuration for ERDDAP.
 
 ## ERDDAP Deployments
 
