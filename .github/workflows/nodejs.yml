@@ -29,3 +29,6 @@ jobs:
     - run: npm test
       env:
         CI: true
+    - name: Git Commit and Push
+      uses: github-actions-x/commit@v2.4
+
