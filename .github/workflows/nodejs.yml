@@ -31,4 +31,6 @@ jobs:
         CI: true
     - name: Git Commit and Push
       uses: github-actions-x/commit@v2.4
-
+      with:
+        push-branch: 'master'
+        rebase: 'true'
