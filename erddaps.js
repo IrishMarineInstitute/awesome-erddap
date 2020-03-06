@@ -56,7 +56,7 @@ var awesomeErddaps = [
 	},
     {
 		"name": "NOAA IOOS PacIOOS (Pacific Islands Ocean Observing System) at the University of Hawaii (UH)",
-		"url": "http://oos.soest.hawaii.edu/erddap/",
+		"url": "https://pae-paha.pacioos.hawaii.edu/erddap/",
 		"public": true
 	},
     {
@@ -187,6 +187,61 @@ var awesomeErddaps = [
 	{
 		"name": "SOCAT (Surface Ocean CO2 ATlas)",
 		"url": "https://ferret.pmel.noaa.gov/socat/erddap/",
+		"public": true
+	},
+	{
+		"name": "HAKAI Institute",
+		"url": "https://catalogue.hakai.org/erddap/",
+		"public": true
+	},
+	{
+		"name": "NANOOS (Northwest Association of Networked Ocean Observing Systems)",
+		"url": "https://wilson.coas.oregonstate.edu/erddap/",
+		"public": true
+	},
+	{
+		"name": "NOAH Polar Watch",
+		"url": "https://polarwatch.noaa.gov/erddap/",
+		"public": true
+	},
+	{
+		"name": "NCI (National Computational Infrastructure",
+		"url": "http://nrm-erddap.nci.org.au/erddap/",
+		"public": true
+	},
+	{
+		"name": "USGS Coastal and Marine Geology Program",
+		"url": "https://geoport.usgs.esipfed.org/erddap/",
+		"public": true
+	},
+	{
+		"name": "ESSO INCOIS (Indian National Centre for Ocean Information Services)",
+		"url": "https://erddap.incois.gov.in/erddap/",
+		"public": true
+	},
+	{
+		"name": "ICHEC (Irish Centre for High-End Computing",
+		"url": "https://erddap.ichec.ie/erddap/",
+		"public": true
+	},
+	{
+		"name": "Smart Atlantic",
+		"url": "https://www.smartatlantic.ca/erddap/",
+		"public": true
+	},
+	{
+		"name": "GRIIDC (Gulf of Mexico Research Initiative",
+		"url": "https://erddap.griidc.org/erddap/",
+		"public": true
+	},
+	{
+		"name": "NOAH ATN IOOS (Animal Telemetry Network)",
+		"url": "https://atn.ioos.us/erddap/",
+		"public": true
+	},
+	{
+		"name": "DIVER (NOAA Office of Response and Restoration)",
+		"url": "https://pub-data.diver.orr.noaa.gov/erddap/",
 		"public": true
 	}
 ];

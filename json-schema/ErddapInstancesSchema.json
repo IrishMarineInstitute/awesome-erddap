@@ -19,12 +19,16 @@
 			"public":{
 				"description": "Is the URL supplied responding to public web calls",
 				"type": "boolean"
+			},
+			"short_name":{
+				"description": "A short name for the Erddap instance, for easier dictionary handling",
+				"type": "string"
 			}
 		},
 		"required": ["name", "url", "public"],
 		"additionalProperties": false,
-		"maxProperties": 3,
-		"minProperties": 3
+		"maxProperties": 4,
+		"minProperties": 4
 	}
    }
 }
