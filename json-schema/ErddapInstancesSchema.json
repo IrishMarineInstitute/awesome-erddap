@@ -25,7 +25,7 @@
 				"type": "string"
 			}
 		},
-		"required": ["name", "url", "public"],
+		"required": ["name", "url", "public", "short_name"],
 		"additionalProperties": false,
 		"maxProperties": 4,
 		"minProperties": 4
