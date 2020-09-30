@@ -57,6 +57,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [ICHEC](https://erddap.ichec.ie/erddap/index.html) (Irish Centre for High-End Computing)
 - [INCOIS](http://erddap.incois.gov.in/erddap/index.html) (Indian National Centre for Ocean Information Services)
 - IPSC JRC EC - Maritime Affairs Unit, Institute for the Protection and Security of the Citizen, Joint Research Centre of the European Commission
+- [JRC EODPP](https://jeodpp.jrc.ec.europa.eu/services/erddap/) - European Commission Joint Research Centre Big Data Platform's ERDDAP server
 - IRD (Institut de Recherche pour le Développement, France)  
 - CNRS (Centre National de la Recherche Scientifique, France)  
 - UPMC (Université Pierre et Marie CURIE, Paris, France)  
