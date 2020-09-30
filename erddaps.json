@@ -292,5 +292,11 @@
 		"short_name": "DIVER",
 		"url": "https://pub-data.diver.orr.noaa.gov/erddap/",
 		"public": true
+	},
+	{
+		"name": "JEODPP ERDDAP server",
+		"short_name": "JEOPP",
+		"url": "https://jeodpp.jrc.ec.europa.eu/services/erddap/",
+		"public": true
 	}
 ]
