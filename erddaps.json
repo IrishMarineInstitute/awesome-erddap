@@ -144,13 +144,13 @@
 		"public": true
 	},
     {
-		"name": "",
+		"name": "GCOOS Metoceans: Historical Data",
 		"short_name": "GCOO5-TAMU",
 		"url": "http://gcoos5.geos.tamu.edu:6060/erddap/",
 		"public": false
 	},
     {
-		"name": "",
+		"name": "GCOOS Biological and Socioeconomics",
 		"short_name": "GCOO4-TAMU",
 		"url": "http://gcoos4.tamu.edu:8080/erddap/",
 		"public": false
@@ -297,6 +297,12 @@
 		"name": "JEODPP ERDDAP server",
 		"short_name": "JEOPP",
 		"url": "https://jeodpp.jrc.ec.europa.eu/services/erddap/",
+		"public": true
+	},
+	{
+		"name": "GCOOS Metoceans: In Situ Observing System",
+		"short_name": "GCOOS",
+		"url": "http://erddap.gcoos.org:8080/erddap",
 		"public": true
 	}
 ]
