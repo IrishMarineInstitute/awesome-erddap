@@ -44,13 +44,13 @@
     {
 		"name": "NOAA IOOS Sensors ERDDAP",
 		"short_name": "IOOS-Sensors",
-		"url": "http://erddap.sensors.ioos.us/erddap/",
+		"url": "https://erddap.sensors.ioos.us/erddap/",
 		"public": true
 	},
     {
 		"name": "NOAA IOOS CeNCOOS (Central and Northern California Ocean Observing System)",
 		"short_name": "CeNCOOS",
-		"url": "http://erddap.axiomdatascience.com/erddap/",
+		"url": "https://erddap.axiomdatascience.com/erddap/",
 		"public": true
 	},
     {
@@ -74,7 +74,7 @@
     {
 		"name": "Southern California Coastal Ocean Observing System (SCCOOS)",
 		"short_name": "SCCOOS",
-		"url": "http://sccoos.org/erddap/",
+		"url": "https://sccoos.org/erddap/",
 		"public": true
 	},
     {
@@ -144,15 +144,15 @@
 		"public": true
 	},
     {
-		"name": "GCOOS Metoceans: Historical Data",
+		"name": "GCOOS Atmospheric and Oceanographic: Historical Data",
 		"short_name": "GCOO5-TAMU",
-		"url": "http://gcoos5.geos.tamu.edu:6060/erddap/",
+		"url": "https://gcoos5.geos.tamu.edu/erddap/",
 		"public": false
 	},
     {
 		"name": "GCOOS Biological and Socioeconomics",
 		"short_name": "GCOO4-TAMU",
-		"url": "http://gcoos4.tamu.edu:8080/erddap/",
+		"url": "https://gcoos4.tamu.edu/erddap/",
 		"public": false
 	},
     {
@@ -160,12 +160,6 @@
 		"short_name": "GLERL",
 		"url": "https://coastwatch.glerl.noaa.gov/erddap/",
 		"public": true
-	},
-    {
-		"name": "",
-		"short_name": "SFEI",
-		"url": "http://sfbaynutrients.sfei.org/erddap/",
-		"public": false
 	},
     {
 		"name": "Spray Underwater Glider data from Instrument Development Group, Scripps Institute of Oceanography, University of California, San Diego",
@@ -206,7 +200,7 @@
 	{
 		"name": "French Research Institute for the Exploitation of the Sea",
 		"short_name": "IFREMER",
-		"url": "http://www.ifremer.fr/erddap/",
+		"url": "https://www.ifremer.fr/erddap/",
 		"public": true
 	},
 	{
@@ -300,9 +294,9 @@
 		"public": true
 	},
 	{
-		"name": "GCOOS Metoceans: In Situ Observing System",
+		"name": "GCOOS Atmospheric and Oceanographic: Observing System",
 		"short_name": "GCOOS",
-		"url": "http://erddap.gcoos.org:8080/erddap",
+		"url": "https://erddap.gcoos.org/erddap/",
 		"public": true
 	}
 ]
