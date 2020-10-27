@@ -108,9 +108,15 @@
 		"public": false
 	},
     {
-		"name": "Ocean Observatories Initiative (OOI)",
-		"short_name": "OOI",
+		"name": "Ocean Observatories Initiative (OOI) Uncabled",
+		"short_name": "OOI Uncabled",
 		"url": "https://erddap-uncabled.oceanobservatories.org/uncabled/erddap/",
+		"public": true
+	},
+    {
+		"name": "Ocean Observatories Initiative (OOI) Goldcopy",
+		"short_name": "OOI Goldcopy",
+		"url": "http://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap/",
 		"public": true
 	},
     {
