@@ -304,5 +304,29 @@
 		"short_name": "GCOOS",
 		"url": "https://erddap.gcoos.org/erddap/",
 		"public": true
+	},
+	{
+		"name": "University of Delaware, College of Earth, Ocean and Environment",
+		"short_name": "CEOE",
+		"url": "https://basin.ceoe.udel.edu/erddap/",
+		"public": true
+	},
+	{
+		"name": "Canadian Integrated Ocean Observatory System",
+		"short_name": "CIOOS Atlantic",
+		"url": "https://cioosatlantic.ca/erddap/",
+		"public": true
+	},
+	{
+		"name": "European Multidisciplinary Seafloor and water column Observatory (EMSO)",
+		"short_name": "EMSO ERIC",
+		"url": "http://erddap.emso.eu:8080/erddap/",
+		"public": true
+	},
+	{
+		"name": "Southern Ocean Carbon and Heat Imact on Climate (SO-CHIC)",
+		"short_name": "SO-CHIC",
+		"url": "http://erddap.sochic-h2020.eu/erddap/",
+		"public": true
 	}
 ]
