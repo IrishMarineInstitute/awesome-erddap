@@ -328,5 +328,12 @@
 		"short_name": "SO-CHIC",
 		"url": "http://erddap.sochic-h2020.eu/erddap/",
 		"public": true
+	},
+	{
+		"name": "NOAA CoastWatch Central Operations",
+		"short_name": "NCCO",
+		"url": "https://coastwatch.noaa.gov/erddap/",
+		"public": true
+
 	}
 ]
