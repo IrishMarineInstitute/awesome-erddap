@@ -84,12 +84,6 @@
 		"public": true
 	},
     {
-		"name": "NOAA NCEI (National Centers for Environmental Information) / NCDDC",
-		"short_name": "NCDDC",
-		"url": "https://ecowatch.ncddc.noaa.gov/erddap/",
-		"public": true
-	},
-    {
 		"name": "NOAA OSMC (Observing System Monitoring Center)",
 		"short_name": "OSMC",
 		"url": "http://osmc.noaa.gov/erddap/",
@@ -116,7 +110,7 @@
     {
 		"name": "Ocean Observatories Initiative (OOI) Goldcopy",
 		"short_name": "OOI Goldcopy",
-		"url": "http://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap/",
+		"url": "https://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap/",
 		"public": true
 	},
     {
@@ -126,7 +120,7 @@
 		"public": true
 	},
     {
-		"name": "",
+		"name": "Regional Ocean Modelling System",
 		"short_name": "MYROMS",
 		"url": "http://www.myroms.org:8080/erddap/",
 		"public": false
