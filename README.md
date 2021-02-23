@@ -32,6 +32,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 ## Web Mapping Services
 
+- [ERDDAP Leaflet Velocity Demo](https://github.com/IrishMarineInstitute/erddap-leaflet-velocity-demo) - Bringing [Windy](https://github.com/windycom/API) type visualisations to ERDDAP Griddap datasets.
 - [timeliER](https://irishmarineinstitute.github.io/timeliER/#IMI_CONN_3D) - Smooth playing of ERDDAP WMS data using [LeafletTime.Dimension](https://github.com/socib/Leaflet.TimeDimension).
 
 ## Vectors
@@ -50,6 +51,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 - [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) - Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii (UH).
 - BCO-DMO at WHOI (Biological and Chemical Oceanography Data Management Office at Woods Hole Oceanographic Institution)
+- [CanWIN](https://canwinerddap.ad.umanitoba.ca/erddap/index.html) - The Canadian Watershed Information Network at the University of Manitoba
 - [CSIRO and IMOS](http://rs-data1-mel.csiro.au/erddap/index.html) (Australia's Commonwealth Scientific and Industrial Research Organisation and the Integrated Marine Observing System)
 - [EMODnet Physics](http://erddap.emodnet-physics.eu/erddap/index.html) (The European Marine Observation and Data Network - Physics)
 - [Hakai Institute](https://catalogue.hakai.org/erddap/index.html) (The Hakai Institute on the Central Coast of British Columbia, Canada)

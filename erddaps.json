@@ -292,5 +292,11 @@
 		"short_name": "DIVER",
 		"url": "https://pub-data.diver.orr.noaa.gov/erddap/",
 		"public": true
+	},
+	{
+		"name": "The Canadian Watershed Information Network at the University of Manitoba",
+		"short_name": "CanWIN", 
+		"url": "https://canwinerddap.ad.umanitoba.ca/erddap/index.html", 
+		"public": true
 	}
 ]
