@@ -222,8 +222,8 @@
 		"public": true
 	},
 	{
-		"name": "HAKAI Institute",
-		"short_name": "HAKAI",
+		"name": "Hakai Institute",
+		"short_name": "Hakai",
 		"url": "https://catalogue.hakai.org/erddap/",
 		"public": true
 	},
@@ -306,9 +306,15 @@
 		"public": true
 	},
 	{
-		"name": "Canadian Integrated Ocean Observatory System",
+		"name": "Canadian Integrated Ocean Observatory System Atlantic",
 		"short_name": "CIOOS Atlantic",
 		"url": "https://cioosatlantic.ca/erddap/",
+		"public": true
+	},
+	{
+		"name": "Canadian Integrated Ocean Observatory System Pacific",
+		"short_name": "CIOOS Pacific",
+		"url": "https://data.cioospacific.ca/erddap/",
 		"public": true
 	},
 	{
