@@ -25,6 +25,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [rerddap](https://github.com/ropensci/rerddap) - R language package for simplified access to data in any ERDDAP server, can also be installed from CRAN.
 - [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R language package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
 - [erddap-highstock-viewer](https://github.com/gulfofmaine/erddap-highstock-viewer) -  Simple pure JavaScript example to demonstrate display of long time series in HighCharts from a CORS enabled ERDDAP RESTful API.
+- [erddap-python](https://github.com/hmedrano/erddap-python) - A Python client for the ERDDAP Restful API, that can obtain status metrics, provides search methods, and it gives tabledap and griddap class objects for metadata and data access.
 
 ## ArcGIS
 
