@@ -47,6 +47,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [Search Multiple Erddaps](https://coastwatch.pfeg.noaa.gov/erddap/download/SearchMultipleERDDAPs.html) - Bob Simon's experimental web page for searching ERDDAPs.
 - [Search Erddaps](https://github.com/IrishMarineInstitute/search-erddaps) - A tool for searching across instances of NOAA's Erddap data server software.
 - [ERDDAP Gold Standard](https://github.com/ioos/erddap-gold-standard) - Example datasets and configuration for ERDDAP.
+- [ERDDAP Status Metrics Dashboard](https://share.streamlit.io/hmedrano/erddap-status-dashboard/main/dashboard_streamlit_app.py) - An interactive dashboard web app powered by [Streamlit](https://streamlit.io/) that parses ERDDAP status metrics using [erddap-python](https://github.com/hmedrano/erddap-python), and [altair](https://altair-viz.github.io/) for visualizations.
 
 ## ERDDAP Deployments
 
