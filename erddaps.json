@@ -53,6 +53,12 @@
 		"url": "https://erddap.axiomdatascience.com/erddap/",
 		"public": true
 	},
+	  {
+		"name": "CeNCOOS (Central and Northern California Ocean Observing System) ERDDAP",
+		"short_name": "CeNCOOS ERDDAP",
+		"url": "http://erddap.cencoos.org/erddap/",
+		"public": true
+	},
     {
 		"name": "NOAA IOOS NERACOOS (Northeastern Regional Association of Coastal and Ocean Observing Systems)",
 		"short_name": "NERACOOS",
