@@ -198,12 +198,6 @@
 		"public": true
 	},
 	{
-		"name": "R.Tech Engineering",
-		"short_name": "RTECH",
-		"url": "https://meteo.rtech.fr/erddap/",
-		"public": true
-	},
-	{
 		"name": "French Research Institute for the Exploitation of the Sea",
 		"short_name": "IFREMER",
 		"url": "https://www.ifremer.fr/erddap/",
