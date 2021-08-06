@@ -108,9 +108,9 @@
 		"public": false
 	},
     {
-		"name": "Ocean Observatories Initiative (OOI) Uncabled",
-		"short_name": "OOI Uncabled",
-		"url": "https://erddap-uncabled.oceanobservatories.org/uncabled/erddap/",
+		"name": "Ocean Observatories Initiative (OOI)",
+		"short_name": "OOI",
+		"url": "https://erddap.dataexplorer.oceanobservatories.org/erddap/",
 		"public": true
 	},
     {
