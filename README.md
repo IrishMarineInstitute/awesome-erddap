@@ -73,7 +73,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [The Marine Institute](https://erddap.marine.ie/erddap/index.html) - Ireland.
 - Marine Instruments S.A. (Spain)
 - [NCI](http://nrm-erddap.nci.org.au/erddap/index.html) (National Computational Infrastructure)
-- [NOAH ATN IOOS](https://atn.ioos.us/erddap/index.html) (Animal Telemetry Network)
+- [NOAA ATN IOOS](https://atn.ioos.us/erddap/index.html) (Animal Telemetry Network)
 - [NOAA CW CGOM](http://cwcgom.aoml.noaa.gov/erddap/index.html) (CoastWatch Caribbean/Gulf of Mexico Node)
 - [NOAA CW WC](https://coastwatch.pfeg.noaa.gov/erddap/index.html) - CoastWatch West Coast Node which is co-located with and works with NOAA ERD.  
 - [NOAA ERD](https://coastwatch.pfeg.noaa.gov/erddap/index.html) (Environmental Research Division of SWFSC of NMFS)

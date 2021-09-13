@@ -234,7 +234,7 @@
 		"public": true
 	},
 	{
-		"name": "NOAH Polar Watch",
+		"name": "NOAA Polar Watch",
 		"short_name": "POLARWATCH",
 		"url": "https://polarwatch.noaa.gov/erddap/",
 		"public": true
@@ -276,7 +276,7 @@
 		"public": true
 	},
 	{
-		"name": "NOAH ATN IOOS (Animal Telemetry Network)",
+		"name": "NOAA ATN IOOS (Animal Telemetry Network)",
 		"short_name": "ATN-IOOS",
 		"url": "https://atn.ioos.us/erddap/",
 		"public": true
