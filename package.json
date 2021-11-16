@@ -1,11 +1,11 @@
 {
 	"scripts": {
-		"test": "node test/JsonMatchesJsonSchema.js && node test/JsonEqualsJS.js",
+		"test": "node test/JsonMatchesJsonSchema.js && node test/JsonEqualsJS.js && node test/lint.js && node test/JsonpEqualsJS.js",
 		"build": "node tools/build.js"
 	},
 	"devDependencies": {
 		"ajv": "^6.12.0",
-		"awesome-lint": "^0.16.0",
+		"awesome-lint": "^0.18.0",
 		"underscore": "^1.12.1"
 	}
 }
