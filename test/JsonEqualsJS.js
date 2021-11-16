@@ -4,5 +4,5 @@
 	var _ = require('underscore');
 	const jsonData = require('../erddaps.json');
 	eval(fs.readFileSync('erddaps.js')+'');
-	assert(_.isEqual(awesomeErddaps,jsonData));
+	assert(_.isEqual(awesomeErddaps,jsonData));	
 })();

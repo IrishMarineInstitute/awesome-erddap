@@ -2,7 +2,7 @@
 
 A curated list of awesome ERDDAP projects and deployments
 
-Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https://github.com/sindresorhus/awesome) list thing.
+Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 
 ## Contents
 
@@ -18,7 +18,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 ## ERDDAP
 
 - The [ERDDAP data server](https://github.com/BobSimons/erddap) itself - various instances power all the awesome projects on this list
-- [List of ERDDAP instances](https://github.com/IrishMarineInstitute/awesome-erddap/blob/master/erddaps.json) - A JSON file of ERDDAP instances for use in applications which require access to multiple ERDDAP servers. This file is hosted within this repository. To add your ERDDAP server to the JSON file, please see the [guidelines for contributing](CONTRIBUTING.md).
+- [List of ERDDAP instances](https://github.com/IrishMarineInstitute/awesome-erddap/blob/master/erddaps.json) - A JSON file of ERDDAP instances for use in applications which require access to multiple ERDDAP servers. This file is hosted within this repository. To add your ERDDAP server to the JSON file, please see the [guidelines for contributing](#contributing).
 
 ## ERDDAP Clients
 
@@ -38,7 +38,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 ## Web Mapping Services
 
-- [erddap-leadlet-velocity-demo](https://github.com/IrishMarineInstitute/erddap-leaflet-velocity-demo) - A demonstration of connecting Erddap to [Leaflet-Velocity](https://github.com/danwild/leaflet-velocity) maps
+- [erddap-leadlet-velocity-demo](https://github.com/IrishMarineInstitute/erddap-leaflet-velocity-demo) - A demonstration of connecting Erddap to [Leaflet-Velocity](https://github.com/danwild/leaflet-velocity) maps.
 - [timeliER](https://irishmarineinstitute.github.io/timeliER/#IMI_CONN_3D) - Smooth playing of ERDDAP WMS data using [LeafletTime.Dimension](https://github.com/socib/Leaflet.TimeDimension).
 
 ## Vectors
@@ -52,13 +52,13 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [Search Multiple Erddaps](https://coastwatch.pfeg.noaa.gov/erddap/download/SearchMultipleERDDAPs.html) - Bob Simon's experimental web page for searching ERDDAPs.
 - [Search Erddaps](https://github.com/IrishMarineInstitute/search-erddaps) - A tool for searching across instances of NOAA's Erddap data server software.
 - [ERDDAP Gold Standard](https://github.com/ioos/erddap-gold-standard) - Example datasets and configuration for ERDDAP.
-- [ERDDAP Status Metrics Dashboard](https://share.streamlit.io/hmedrano/erddap-status-dashboard/main/dashboard_streamlit_app.py) - An interactive dashboard web app powered by [Streamlit](https://streamlit.io/) that parses ERDDAP status metrics using [erddap-python](https://github.com/hmedrano/erddap-python), and [altair](https://altair-viz.github.io/) for visualizations.
+- [ERDDAP Status Metrics Dashboard](https://share.streamlit.io/hmedrano/erddap-status-dashboard/main/dashboard_streamlit_app.py) - An interactive dashboard web app powered by [Streamlit](https://streamlit.io/) that parses ERDDAP status metrics using `erddap-python`, and [altair](https://altair-viz.github.io/) for visualizations.
 
 ## ERDDAP Deployments
 
 - [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) - Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii (UH).
 - BCO-DMO at WHOI (Biological and Chemical Oceanography Data Management Office at Woods Hole Oceanographic Institution)
-- [CanWIN](https://canwinerddap.ad.umanitoba.ca/erddap) The Canadian Watershed Information Network at the University of Manitoba
+- [CanWIN](https://canwinerddap.ad.umanitoba.ca/erddap) - The Canadian Watershed Information Network at the University of Manitoba.
 - [CSIRO and IMOS](http://rs-data1-mel.csiro.au/erddap/index.html) (Australia's Commonwealth Scientific and Industrial Research Organisation and the Integrated Marine Observing System)
 - [EMODnet Physics](http://erddap.emodnet-physics.eu/erddap/index.html) (The European Marine Observation and Data Network - Physics)
 - [Hakai Institute](https://catalogue.hakai.org/erddap/index.html) (The Hakai Institute on the Central Coast of British Columbia, Canada)
@@ -66,7 +66,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [ICHEC](https://erddap.ichec.ie/erddap/index.html) (Irish Centre for High-End Computing)
 - [INCOIS](http://erddap.incois.gov.in/erddap/index.html) (Indian National Centre for Ocean Information Services)
 - IPSC JRC EC - Maritime Affairs Unit, Institute for the Protection and Security of the Citizen, Joint Research Centre of the European Commission
-- [JRC EODPP](https://jeodpp.jrc.ec.europa.eu/services/erddap/) - European Commission Joint Research Centre Big Data Platform's ERDDAP server
+- [JRC EODPP](https://jeodpp.jrc.ec.europa.eu/services/erddap/) - European Commission Joint Research Centre Big Data Platform's ERDDAP server.
 - IRD (Institut de Recherche pour le Développement, France)  
 - CNRS (Centre National de la Recherche Scientifique, France)  
 - UPMC (Université Pierre et Marie CURIE, Paris, France)  
@@ -81,7 +81,6 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [NOAA ATN IOOS](https://atn.ioos.us/erddap/index.html) (Animal Telemetry Network)
 - [NOAA CW CGOM](http://cwcgom.aoml.noaa.gov/erddap/index.html) (CoastWatch Caribbean/Gulf of Mexico Node)
 - [NOAA CW WC](https://coastwatch.pfeg.noaa.gov/erddap/index.html) - CoastWatch West Coast Node which is co-located with and works with NOAA ERD.  
-- [NOAA ERD](https://coastwatch.pfeg.noaa.gov/erddap/index.html) (Environmental Research Division of SWFSC of NMFS)
 - [NOAA IOOS Sensors](http://erddap.sensors.ioos.us/erddap/) (Integrated Ocean Observing System)
 - [NOAA IOOS CeNCOOS](http://erddap.axiomdatascience.com/erddap/index.html) (Central and Northern California Ocean Observing System, run by Axiom Data Science)
 - [NANOOS IOOS](https://wilson.coas.oregonstate.edu/erddap/index.html) (Northwest Association of Networked Ocean Observing Systems)
@@ -117,7 +116,3 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
 Thanks to all [contributors](https://github.com/IrishMarineInstitute/awesome-erddap/graphs/contributors).
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
