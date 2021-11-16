@@ -340,5 +340,11 @@
 		"short_name": "CanWIN",
 		"url": "https://canwinerddap.ad.umanitoba.ca/erddap/index.html",
 		"public": true
+	},
+	{
+		"name": "NOAA Oceanview",
+		"short_name": "NOAA Oceanview",
+		"url": "https://oceanview.pfeg.noaa.gov/erddap/index.html",
+		"public": true
 	}
 ]
