@@ -8,6 +8,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 
 - [ERDDAP](#erddap)
 - [ERDDAP Clients](#erddap-clients)
+- [Tutorials](#tutorials)
 - [ArcGIS](#arcgis)
 - [Web Mapping Services](#web-mapping-services)
 - [Vectors](#vectors)
@@ -26,6 +27,10 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R language package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
 - [erddap-highstock-viewer](https://github.com/gulfofmaine/erddap-highstock-viewer) -  Simple pure JavaScript example to demonstrate display of long time series in HighCharts from a CORS enabled ERDDAP RESTful API.
 - [erddap-python](https://github.com/hmedrano/erddap-python) - Python library for the ERDDAP Restful API, that can obtain status metrics, provides search methods, and it gives tabledap and griddap class objects for metadata and data access.
+
+## Tutorials
+
+- [Reusing Open Data with ERDDAP and Python](https://k-rns.github.io/workshop_data_reuse/) - Python based tutorial by Karen Soenen ([@k-rns](https://github.com/k-rns)) on using data published through Erddap aimed at the ocean sciences. Around four hours of material.
 
 ## ArcGIS
 
@@ -87,6 +92,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and the [awesome](https:/
 - [NOAA IOOS SECOORA](http://erddap.secoora.org/erddap/index.html) (Southeast Coastal Ocean Observing Regional Association)
 - [NOAA NCEI](https://ecowatch.ncddc.noaa.gov/erddap/index.html) - National Centers for Environmental Information) / NCDDC.
 - NOAA NGDC STP (National Geophysical Data Center, Solar - Terrestrial Physics)
+- [NOAA Oceanview](https://oceanview.pfeg.noaa.gov/erddap/index.html)
 - [NOAA OSMC](http://osmc.noaa.gov/erddap/index.html) (Observing System Monitoring Center)
 - [NOAA PW](https://polarwatch.noaa.gov/erddap/index.html)
 - [NOAA UAF](https://upwell.pfeg.noaa.gov/erddap/index.html) (Unified Access Framework)
