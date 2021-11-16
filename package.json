@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"test": "node test/JsonMatchesJsonSchema.js && node test/JsonEqualsJS.js && node test/lint.js",
+		"test": "node test/JsonMatchesJsonSchema.js && node test/JsonEqualsJS.js && node test/lint.js && node test/JsonpEqualsJS.js",
 		"build": "node tools/build.js"
 	},
 	"devDependencies": {
