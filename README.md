@@ -57,7 +57,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 ## ERDDAP Deployments
 
 - [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) - Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii (UH).
-- [WHOI BCO-DMO](https://erddap.bco-dmo.org/erddap/) - (Biological and Chemical Oceanography Data Management Office at Woods Hole Oceanographic Institution)
+- [BCO-DMO](https://erddap.bco-dmo.org/erddap/) - Biological and Chemical Oceanography Data Management Office at Woods Hole Oceanographic Institution (WHOI).
 - [CanWIN](https://canwinerddap.ad.umanitoba.ca/erddap) - The Canadian Watershed Information Network at the University of Manitoba.
 - [CSIRO and IMOS](http://rs-data1-mel.csiro.au/erddap/index.html) (Australia's Commonwealth Scientific and Industrial Research Organisation and the Integrated Marine Observing System)
 - [EMODnet Physics](http://erddap.emodnet-physics.eu/erddap/index.html) (The European Marine Observation and Data Network - Physics)
@@ -96,7 +96,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [NOAA PW](https://polarwatch.noaa.gov/erddap/index.html)
 - [NOAA UAF](https://upwell.pfeg.noaa.gov/erddap/index.html) (Unified Access Framework)
 - [Ocean Networks Canada](http://dap.onc.uvic.ca/erddap/index.html)
-- [Ocean Observatories Initiative (OOI)](https://oceanobservatories.org/erddap-server/)
+- [OOI](https://oceanobservatories.org/erddap-server/) - The Ocean Observatories Initiative.
 - [Ocean Tracking Network](https://members.oceantrack.org/erddap/index.html)
 - Princeton, Hydrometeorology Research Group
 - R.Tech Engineering
