@@ -346,5 +346,11 @@
 		"short_name": "NOAA Oceanview",
 		"url": "https://oceanview.pfeg.noaa.gov/erddap/index.html",
 		"public": true
+	},
+	{
+		"name": "UNESCO IOC-IODE Ocean Acidification", 
+		"short_name": "IOC-IODE-OA", 
+		"url": "https://erddap.oa.iode.org/erddap/", 
+		"public": true
 	}
 ]
