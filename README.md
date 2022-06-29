@@ -87,7 +87,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [NANOOS IOOS](https://wilson.coas.oregonstate.edu/erddap/index.html) (Northwest Association of Networked Ocean Observing Systems)
 - [NOAA IOOS NERACOOS](http://www.neracoos.org/erddap/index.html) (Northeastern Regional Association of Coastal and Ocean Observing Systems)
 - [NOAA IOOS NGDAC](https://gliders.ioos.us/erddap/index.html) - National Glider Data Assembly Center.
-- [NOAA IOOS PacIOOS](http://oos.soest.hawaii.edu/erddap/index.html) - Pacific Islands Ocean Observing System) at the University of Hawaii (UH).
+- [NOAA IOOS PacIOOS](https://pae-paha.pacioos.hawaii.edu/erddap/index.html) - Pacific Islands Ocean Observing System) at the University of Hawaii (UH).
 - [NOAA IOOS SCCOOS](http://sccoos.org/erddap/index.html) (Southern California Coastal Ocean Observing System)
 - [NOAA IOOS SECOORA](http://erddap.secoora.org/erddap/index.html) (Southeast Coastal Ocean Observing Regional Association)
 - [NOAA NCEI](https://ecowatch.ncddc.noaa.gov/erddap/index.html) - National Centers for Environmental Information) / NCDDC.
