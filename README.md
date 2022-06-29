@@ -108,7 +108,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - South African Environmental Observation Network
 - Spyglass Technologies
 - Stanford University, Hopkins Marine Station
-- [UNESCO IODE Ocean Acidification] (https://erddap.oa.iode.org/erddap/index.html)
+- [UNESCO IODE Ocean Acidification](https://erddap.oa.iode.org/erddap/index.html)
 - [University of British Columbia, Earth, Ocean & Atmospheric Sciences Department](https://salishsea.eos.ubc.ca/erddap/index.html)
 - University of California at Davis, Bodega Marine Laboratory
 - University of Washington, Applied Physics Laboratory
