@@ -31,6 +31,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 ## Tutorials
 
 - [Reusing Open Data with ERDDAP and Python](https://k-rns.github.io/workshop_data_reuse/) - Python based tutorial by Karen Soenen ([@k-rns](https://github.com/k-rns)) on using data published through Erddap aimed at the ocean sciences. Around four hours of material.
+- [NOAA COASTWATCH Satellite Course : Intro to ERDDAP](https://coastwatch.pfeg.noaa.gov/projects/erddap/) - ERDDAP web interface tutorial by Cara Wilson and Dale Robinson on using satellite data alongside tabular datasets aimed at ocean / atmospheric sciences.  Includes an appication of the [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) tool.
 
 ## ArcGIS
 
