@@ -52,6 +52,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [Search Multiple Erddaps](https://coastwatch.pfeg.noaa.gov/erddap/download/SearchMultipleERDDAPs.html) - Bob Simon's experimental web page for searching ERDDAPs.
 - [Search Erddaps](https://github.com/IrishMarineInstitute/search-erddaps) - A tool for searching across instances of NOAA's Erddap data server software.
 - [ERDDAP Gold Standard](https://github.com/ioos/erddap-gold-standard) - Example datasets and configuration for ERDDAP.
+- [IOOS ERDDAP install gold standards](https://ioos.github.io/erddap-gold-standard/index.html) - A quick start guide for standing up an ERDDAP server
 - [ERDDAP Status Metrics Dashboard](https://share.streamlit.io/hmedrano/erddap-status-dashboard/main/dashboard_streamlit_app.py) - An interactive dashboard web app powered by [Streamlit](https://streamlit.io/) that parses ERDDAP status metrics using `erddap-python`, and [altair](https://altair-viz.github.io/) for visualizations.
 - [ERDDAP interpolate converter notebook](https://ioos.github.io/ioos_code_lab/content/code_gallery/data_analysis_and_visualization_notebooks/2021-10-25-ERDDAP-interpolate.html) - An example using ERDDAP's interpolate converter to interpolate temperature from the Multi-scale Ultra-high Resolution (MUR) SST Analysis to saildrone track points.
 - [ERDDAP docker install](https://github.com/EMODnet-Physics/docker-erddap-install) An easy to use (we hope) procedure to install and configure the axiom/docker-erddap docker container on linux
