@@ -1,7 +1,7 @@
 [
 	{
 		"name": "St. Lawrence Global Observatory - CIOOS | Observatoire global du Saint-Laurent - SIOOC",
-		"short_name": "OGSL-SLGO",
+		"short_name": "SLGO-OGSL",
 		"url": "https://erddap.ogsl.ca/erddap/",
 		"public": true
 	},
