@@ -115,7 +115,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [University of British Columbia, Earth, Ocean & Atmospheric Sciences Department](https://salishsea.eos.ubc.ca/erddap/index.html)
 - University of California at Davis, Bodega Marine Laboratory
 - University of Washington, Applied Physics Laboratory
-- [Voice of the Ocean](https://erddap.observations.voiceoftheocean.org/erddap/index.html)
+- [Voice of the Ocean](https://erddap.observations.voiceoftheocean.org/erddap/index.html) - Marine data from the Baltic. Primarily ocean gliders
 
 ## Contributing
 
