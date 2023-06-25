@@ -57,7 +57,8 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [ERDDAP Status Metrics Dashboard](https://share.streamlit.io/hmedrano/erddap-status-dashboard/main/dashboard_streamlit_app.py) - An interactive dashboard web app powered by [Streamlit](https://streamlit.io/) that parses ERDDAP status metrics using `erddap-python`, and [altair](https://altair-viz.github.io/) for visualizations.
 - [ERDDAP interpolate converter notebook](https://ioos.github.io/ioos_code_lab/content/code_gallery/data_analysis_and_visualization_notebooks/2021-10-25-ERDDAP-interpolate.html) - An example using ERDDAP's interpolate converter to interpolate temperature from the Multi-scale Ultra-high Resolution (MUR) SST Analysis to saildrone track points.
 - [ERDDAP docker install](https://github.com/EMODnet-Physics/docker-erddap-install) An easy to use (we hope) procedure to install and configure the axiom/docker-erddap docker container on linux
-
+- [Erddap navigator] (https://github.com/PythonOpenProjects/ErddapNavigator) A small erddap client (an executable for win and linux), to search data on erddap servers, plot and extract them as xlsx file.
+  
 ## ERDDAP Deployments
 
 - [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) - Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii (UH).
