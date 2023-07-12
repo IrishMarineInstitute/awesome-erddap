@@ -30,8 +30,14 @@
 		"public": true
 	},
     {
-		"name": "European Marine Observation and Data Network (EMODnet) Physics ERDDAP",
+		"name": "European Marine Observation and Data Network (EMODnet) ERDDAP",
 		"short_name": "EMODnet",
+		"url": "https://erddap.emodnet.eu/erddap/",
+		"public": true
+	},
+	{
+		"name": "European Marine Observation and Data Network (EMODnet) Physics ERDDAP",
+		"short_name": "EMODnet Physics",
 		"url": "https://erddap.emodnet-physics.eu/erddap/",
 		"public": true
 	},
