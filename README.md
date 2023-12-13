@@ -60,7 +60,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 
 ## ERDDAP Deployments
 
-- [AKFIN] (https://erddap.psmfc.org/erddap) - Alaska Fisheries Information Network, Pacific States Marine Fisheries Commission (PSMFC).
+- [AKFIN](https://erddap.psmfc.org/erddap) - Alaska Fisheries Information Network, Pacific States Marine Fisheries Commission (PSMFC).
 - [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) - Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii (UH).
 - [BCO-DMO](https://erddap.bco-dmo.org/erddap/) - Biological and Chemical Oceanography Data Management Office at Woods Hole Oceanographic Institution (WHOI).
 - [CanWIN](https://canwinerddap.ad.umanitoba.ca/erddap) - The Canadian Watershed Information Network at the University of Manitoba.
