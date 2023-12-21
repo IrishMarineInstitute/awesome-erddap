@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Voice of the Ocean",
+		"short_name": "VOTO",
+		"url": "https://erddap.observations.voiceoftheocean.org/erddap/",
+		"public": true
+	},
+	{
 		"name": "St. Lawrence Global Observatory - CIOOS | Observatoire global du Saint-Laurent - SIOOC",
 		"short_name": "SLGO-OGSL",
 		"url": "https://erddap.ogsl.ca/erddap/",
