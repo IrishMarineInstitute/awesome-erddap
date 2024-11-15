@@ -27,6 +27,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [rerddapXtracto](https://github.com/rmendels/rerddapXtracto) - R language package that uses rerdddap to extract data from ERDDAP servers along a trajectory or inside a polygon.
 - [erddap-highstock-viewer](https://github.com/gulfofmaine/erddap-highstock-viewer) -  Simple pure JavaScript example to demonstrate display of long time series in HighCharts from a CORS enabled ERDDAP RESTful API.
 - [erddap-python](https://github.com/hmedrano/erddap-python) - Python library for the ERDDAP Restful API, that can obtain status metrics, provides search methods, and it gives tabledap and griddap class objects for metadata and data access.
+- [xtractoMatlab](https://github.com/rmendels/xtractoMatlab) - Matlab package that has the same functionality as the R package 'rerddapXtracto'.
 
 ## Tutorials
 
