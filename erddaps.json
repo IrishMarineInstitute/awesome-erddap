@@ -375,6 +375,6 @@
 		"name": "Linked Systems @ the British Oceanographic Data Centre, National Oceanography Centre, UK",
 		"short_name": "NOC-BODC Linked Systems",
 		"url": "https://linkedsystems.uk/erddap",
-		"public": "true"
+		"public": true
 	}
 ]
