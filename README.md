@@ -118,6 +118,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - University of California at Davis, Bodega Marine Laboratory
 - University of Washington, Applied Physics Laboratory
 - [Voice of the Ocean](https://erddap.observations.voiceoftheocean.org/erddap/index.html) - Marine data from the Baltic. Primarily ocean gliders
+- National Oceanography Centre/British Oceanographic Data Centre's [LinkedSystems Erddap](https://linkedsystems.uk/erddap/index.html).
 
 ## Contributing
 
