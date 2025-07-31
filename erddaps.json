@@ -80,7 +80,7 @@
     {
 		"name": "NOAA IOOS NERACOOS (Northeastern Regional Association of Coastal and Ocean Observing Systems)",
 		"short_name": "NERACOOS",
-		"url": "http://www.neracoos.org/erddap/",
+		"url": "https://data.neracoos.org/erddap/",
 		"public": true
 	},
     {

@@ -90,7 +90,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [NOAA IOOS Sensors](http://erddap.sensors.ioos.us/erddap/) (Integrated Ocean Observing System)
 - [NOAA IOOS CeNCOOS](http://erddap.axiomdatascience.com/erddap/index.html) (Central and Northern California Ocean Observing System, run by Axiom Data Science)
 - [NANOOS IOOS](https://wilson.coas.oregonstate.edu/erddap/index.html) (Northwest Association of Networked Ocean Observing Systems)
-- [NOAA IOOS NERACOOS](http://www.neracoos.org/erddap/index.html) (Northeastern Regional Association of Coastal and Ocean Observing Systems)
+- [NOAA IOOS NERACOOS](https://data.neracoos.org/erddap/index.html) (Northeastern Regional Association of Coastal and Ocean Observing Systems)
 - [NOAA IOOS NGDAC](https://gliders.ioos.us/erddap/index.html) - National Glider Data Assembly Center.
 - [NOAA IOOS PacIOOS](https://pae-paha.pacioos.hawaii.edu/erddap/index.html) - Pacific Islands Ocean Observing System) at the University of Hawaii (UH).
 - [NOAA IOOS SCCOOS](http://sccoos.org/erddap/index.html) (Southern California Coastal Ocean Observing System)
