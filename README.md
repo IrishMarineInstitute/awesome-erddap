@@ -43,10 +43,6 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [erddap-leadlet-velocity-demo](https://github.com/IrishMarineInstitute/erddap-leaflet-velocity-demo) - A demonstration of connecting Erddap to [Leaflet-Velocity](https://github.com/danwild/leaflet-velocity) maps.
 - [timeliER](https://irishmarineinstitute.github.io/timeliER/#IMI_CONN_3D) - Smooth playing of ERDDAP WMS data using [LeafletTime.Dimension](https://github.com/socib/Leaflet.TimeDimension).
 
-## Vectors
-
-- [model-v](http://digitalocean.ie/model-v/) - Sea Surface animation of ERDDAP netCDF data using [wind.js](https://github.com/Esri/wind-js) with time interpolation added. Takes a minute to load, or [watch the video](http://digitalocean.ie/model-v/connemara/).
-
 ## Miscellaneous
 
 - [Erddap-Voxel-Space](https://irishmarineinstitute.github.io/Erddap-Voxel-Space/VoxelSpace.html) - Terrain rendering using ERDDAP WMS as data, based upon this  [VoxelSpace implementation](https://github.com/s-macke/VoxelSpace) as extended by [John Hawthorn](https://github.com/jhawthorn/VoxelSpace) (see his [Vancouver LIDAR data demo](https://jhawthorn.github.io/VoxelSpace/VoxelSpace.html)).
@@ -65,14 +61,11 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) - Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii (UH).
 - [BCO-DMO](https://erddap.bco-dmo.org/erddap/) - Biological and Chemical Oceanography Data Management Office at Woods Hole Oceanographic Institution (WHOI).
 - [CanWIN](https://canwinerddap.ad.umanitoba.ca/erddap) - The Canadian Watershed Information Network at the University of Manitoba.
-- [CSIRO and IMOS](http://rs-data1-mel.csiro.au/erddap/index.html) (Australia's Commonwealth Scientific and Industrial Research Organisation and the Integrated Marine Observing System)
 - [EMODnet Physics](http://erddap.emodnet-physics.eu/erddap/index.html) (The European Marine Observation and Data Network - Physics)
 - [Hakai Institute](https://catalogue.hakai.org/erddap/index.html) (The Hakai Institute on the Central Coast of British Columbia, Canada)
 - [GRIIDC](https://erddap.griidc.org/erddap/index.html) (Gulf of Mexico Research Initiative)
-- [ICHEC](https://erddap.ichec.ie/erddap/index.html) (Irish Centre for High-End Computing)
 - [INCOIS](http://erddap.incois.gov.in/erddap/index.html) (Indian National Centre for Ocean Information Services)
 - IPSC JRC EC - Maritime Affairs Unit, Institute for the Protection and Security of the Citizen, Joint Research Centre of the European Commission
-- [JRC EODPP](https://jeodpp.jrc.ec.europa.eu/services/erddap/) - European Commission Joint Research Centre Big Data Platform's ERDDAP server.
 - IRD (Institut de Recherche pour le Développement, France)  
 - CNRS (Centre National de la Recherche Scientifique, France)  
 - UPMC (Université Pierre et Marie CURIE, Paris, France)  
@@ -83,19 +76,15 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - LMI ECLAIRS (Laboratoire Mixte International Etude du Climat en Afrique de lOuest et de ses Interactions avec lEnvironnement Régional, et appui aux services climatiques)
 - [The Marine Institute](https://erddap.marine.ie/erddap/index.html) - Ireland.
 - Marine Instruments S.A. (Spain)
-- [NCI](http://nrm-erddap.nci.org.au/erddap/index.html) (National Computational Infrastructure)
 - [NOAA ATN IOOS](https://atn.ioos.us/erddap/index.html) (Animal Telemetry Network)
 - [NOAA CW CGOM](http://cwcgom.aoml.noaa.gov/erddap/index.html) (CoastWatch Caribbean/Gulf of Mexico Node)
 - [NOAA CW WC](https://coastwatch.pfeg.noaa.gov/erddap/index.html) - CoastWatch West Coast Node which is co-located with and works with NOAA ERD.  
 - [NOAA IOOS Sensors](http://erddap.sensors.ioos.us/erddap/) (Integrated Ocean Observing System)
-- [NOAA IOOS CeNCOOS](http://erddap.axiomdatascience.com/erddap/index.html) (Central and Northern California Ocean Observing System, run by Axiom Data Science)
-- [NANOOS IOOS](https://wilson.coas.oregonstate.edu/erddap/index.html) (Northwest Association of Networked Ocean Observing Systems)
 - [NOAA IOOS NERACOOS](http://www.neracoos.org/erddap/index.html) (Northeastern Regional Association of Coastal and Ocean Observing Systems)
 - [NOAA IOOS NGDAC](https://gliders.ioos.us/erddap/index.html) - National Glider Data Assembly Center.
 - [NOAA IOOS PacIOOS](https://pae-paha.pacioos.hawaii.edu/erddap/index.html) - Pacific Islands Ocean Observing System) at the University of Hawaii (UH).
 - [NOAA IOOS SCCOOS](http://sccoos.org/erddap/index.html) (Southern California Coastal Ocean Observing System)
 - [NOAA IOOS SECOORA](http://erddap.secoora.org/erddap/index.html) (Southeast Coastal Ocean Observing Regional Association)
-- [NOAA NCEI](https://ecowatch.ncddc.noaa.gov/erddap/index.html) - National Centers for Environmental Information) / NCDDC.
 - NOAA NGDC STP (National Geophysical Data Center, Solar - Terrestrial Physics)
 - [NOAA Oceanview](https://oceanview.pfeg.noaa.gov/erddap/index.html)
 - [NOAA OSMC](http://osmc.noaa.gov/erddap/index.html) (Observing System Monitoring Center)
@@ -103,7 +92,6 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [NOAA UAF](https://upwell.pfeg.noaa.gov/erddap/index.html) (Unified Access Framework)
 - [Ocean Networks Canada](http://dap.onc.uvic.ca/erddap/index.html)
 - [OOI](https://oceanobservatories.org/erddap-server/) - The Ocean Observatories Initiative.
-- [Ocean Tracking Network](https://members.oceantrack.org/erddap/index.html)
 - Princeton, Hydrometeorology Research Group
 - R.Tech Engineering
 - [Rutgers University, Department of Marine and Coastal Sciences](http://tds.marine.rutgers.edu/erddap/index.html)
@@ -118,7 +106,8 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - University of California at Davis, Bodega Marine Laboratory
 - University of Washington, Applied Physics Laboratory
 - [Voice of the Ocean](https://erddap.observations.voiceoftheocean.org/erddap/index.html) - Marine data from the Baltic. Primarily ocean gliders
-- National Oceanography Centre/British Oceanographic Data Centre's [LinkedSystems Erddap](https://linkedsystems.uk/erddap/index.html).
+- National Oceanography Centre/British Oceanographic Data Centre's [LinkedSystems Erddap](https://linkedsystems.uk/erddap/index.html)
+- [Bio-Oracle Erddap](https://erddap.bio-oracle.org/erddap/index.html)
 
 ## Contributing
 
