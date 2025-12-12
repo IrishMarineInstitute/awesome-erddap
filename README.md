@@ -61,6 +61,7 @@ Inspired by [Bob Simons](https://github.com/BobSimons) and other Awesome lists.
 - [APDRC](http://apdrc.soest.hawaii.edu/erddap/index.html) - Asia-Pacific Data-Research Center, International Pacific Research Center at the University of Hawaii (UH).
 - [BCO-DMO](https://erddap.bco-dmo.org/erddap/) - Biological and Chemical Oceanography Data Management Office at Woods Hole Oceanographic Institution (WHOI).
 - [CanWIN](https://canwinerddap.ad.umanitoba.ca/erddap) - The Canadian Watershed Information Network at the University of Manitoba.
+- [CFRF](https://erddap.ondeckdata.com/erddap/tabledap/index.html) - Commercial Fisheries Research Foundation. Cooperative Ocean Observing.
 - [EMODnet Physics](http://erddap.emodnet-physics.eu/erddap/index.html) (The European Marine Observation and Data Network - Physics)
 - [Hakai Institute](https://catalogue.hakai.org/erddap/index.html) (The Hakai Institute on the Central Coast of British Columbia, Canada)
 - [GRIIDC](https://erddap.griidc.org/erddap/index.html) (Gulf of Mexico Research Initiative)

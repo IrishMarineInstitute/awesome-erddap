@@ -334,5 +334,11 @@
 		"short_name": "Bio-Oracle",
 		"url": "https://erddap.bio-oracle.org/erddap/",
 		"public": true
+	},
+	{
+		"name": "Commercial Fisheries Research Foundation",
+		"short_name": "CFRF",
+		"url": "https://erddap.ondeckdata.com/erddap/",
+		"public": true
 	}
 ]
